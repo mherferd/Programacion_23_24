@@ -40,10 +40,11 @@ public class ejercicio23 {
         if (nob.equals("blanco")) {
             System.out.println("Tarta de chocolate blanco: 15€");
             precio = precio + 15;
-            if (nob.equals("negro")) {
-                System.out.println("Tarta de chocolate negro: 14€");
-                precio = precio + 14;
-            }
+        }
+
+        if (nob.equals("negro")) {
+            System.out.println("Tarta de chocolate negro: 14€");
+            precio = precio + 14;
         }
 
 
@@ -58,7 +59,7 @@ public class ejercicio23 {
 
         }
 
-        System.out.println("TOTAL: " + precio);
+        System.out.println("TOTAL: " + precio + "€");
 
     }
 }
