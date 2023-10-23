@@ -7,13 +7,14 @@ public class EJ2 {
 
         int numero, cifra, contador1 = 1, contador2 = 0, posicion = 0;
 
+        Scanner teclado;
+        teclado = new Scanner(System.in);
         System.out.println("Introduce un número:");
-        Scanner teclado = new Scanner(System.in);
         numero = teclado.nextInt();
 
-
+        Scanner teclado2;
+        teclado2 = new Scanner(System.in);
         System.out.println("Una cifra:");
-        Scanner teclado2 = new Scanner(System.in);
         cifra = teclado2.nextInt();
 
         while (numero > 0) {
