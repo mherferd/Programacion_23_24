@@ -17,11 +17,7 @@ public class ejercicio11 {
 
         for (fila = 1; fila <= altura; fila++) {
             for (columna = 1; columna <= altura; columna++) {
-                if (columna == fila) {
-                    System.out.print("*");
-                }
-
-                if ((columna + fila == altura + 1) && (fila != (altura / 2) + 1)) {
+                if ((columna + fila == altura + 1) || (columna == fila)) {
                     System.out.print("*");
                 } else {
                     System.out.print(" ");
