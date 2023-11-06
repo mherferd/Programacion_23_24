@@ -1,4 +1,4 @@
-package U1.examenes.U1.t1;
+package U1;
 
 public class ejercicio1 {
     public static void main(String[] args) {
