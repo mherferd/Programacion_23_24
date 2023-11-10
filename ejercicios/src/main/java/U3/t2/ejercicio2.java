@@ -4,20 +4,20 @@ import java.util.Scanner;
 
 public class ejercicio2 {
     public static void main(String[] args) {
-        String car1;
-        int hola =0;
+        String palabra;
+        String frase = "";
 
         do {
             Scanner teclado;
             teclado = new Scanner(System.in);
             System.out.println("Introduce una palabra: ");
-            car1 = teclado.nextLine();
+            palabra = teclado.nextLine();
 
-            if (car1.equals("fin")) {
-                System.out.println(car1);
-            }
-
+            if (!palabra.equalsIgnoreCase("fin")){
+            frase=frase.concat(palabra +" ");}
         }
-        while (hola==0);
+        while (!palabra.equalsIgnoreCase("fin"));
+        System.out.println(frase);
+
     }
 }
