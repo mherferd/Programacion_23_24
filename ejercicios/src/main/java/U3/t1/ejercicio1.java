@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ejercicio1 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-
         System.out.println("Cuantas veces quieres mostrar el mensaje: ");
         int n = teclado.nextInt();
 

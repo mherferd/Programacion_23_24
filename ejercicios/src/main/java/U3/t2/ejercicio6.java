@@ -26,8 +26,7 @@ public class ejercicio6 {
         System.out.println("Introduce la contraseña: ");
         intento = teclado2.nextLine();
             if (!intento.equals(contrasena)){
-            System.out.println("Incorrecto!");}
-            intento.compareTo(contrasena);}
+            System.out.println("Incorrecto!");}}
 
             while (!intento.equals(contrasena));
 
