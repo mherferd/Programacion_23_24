@@ -25,9 +25,9 @@ public class ejercicio5 {
         Arrays.sort(a);
         Arrays.sort(b);
 
-        for (int x = 0; x < 6; x++) {
-            if (a[x] <= b[x]) {
-                fin[x] = a[x];
+        for (int j = 0; j < 6; j++) {
+            if (a[j] <= b[j]) {
+                fin[j] = a[j];
         }}
 
         System.out.println(Arrays.toString(a));

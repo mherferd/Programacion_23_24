@@ -25,7 +25,6 @@ public class ejercicio3 {
                 contador++;
             }}
 
-            System.out.println(contador);
 
         for (j = 0; j < i; j++) {
             if (t[j] < 0){
@@ -43,15 +42,21 @@ public class ejercicio3 {
             else {
                 pos[j]= 0;}
         }
+        int mediapos=0;
         for (j = 0; j < i; j++) {
+            mediapos =( pos[j]+mediapos);
         }
 
+        int medianeg=0;
         for (j = 0; j < i; j++) {
+            medianeg =( neg[j]+medianeg);
         }
-        System.out.println(Arrays.toString(neg));
 
-
-
+        System.out.println(Arrays.toString(t));
+        System.out.println("NUMERO DE 0: "+contador);
+        System.out.println("MEDIA DE LOS NUMEROS POSITIVOS: "+mediapos/contadorpos);
+        System.out.println("MEDIA DE LOS NUMEROS NEGATIVOS: "+medianeg/contadorneg);
     }
-}
 
+
+}
