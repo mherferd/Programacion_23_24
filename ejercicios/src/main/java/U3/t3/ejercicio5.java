@@ -10,6 +10,7 @@ public class ejercicio5 {
         int[] b = new int[6];
         int[] a = new int[6];
         int[] fin = new int[12];
+        int j1=0,j2=0;
 
         for (int j = 0; j < 6; j++) {
             Scanner teclado = new Scanner(System.in);
@@ -25,14 +26,35 @@ public class ejercicio5 {
         Arrays.sort(a);
         Arrays.sort(b);
 
-        for (int j = 0; j < 6; j++) {
-            if (a[j] <= b[j]) {
-                fin[j] = a[j];
-        }}
+        while (j1<6 || j2<6){
+            if (j1 ==6){
+                System.out.println(b[j2]);
+                fin[j1+j2]=b[j2];
+                j2++;
+            }
 
-        System.out.println(Arrays.toString(a));
-        System.out.println(Arrays.toString(b));
+            if (j1<6 && j2 ==6){
+                System.out.println(a[j1]);
+                fin[j1+j2]=a[j1];
+                j1++;
+            }
+
+            if (j1<6 && j2<6 && a[j1]<=b[j2]){
+                System.out.println(a[j1]);
+                fin[j1+j2]=a[j1];
+                j1++;
+            }
+            else if (j1<6 && j2<6 && b[j2]<a[j1]){
+                System.out.println(b[j2]);
+                fin[j1+j2]=b[j2];
+                j2++;
+            }
+
+
+        }
+
         System.out.println(Arrays.toString(fin));
+
 
 
     }
