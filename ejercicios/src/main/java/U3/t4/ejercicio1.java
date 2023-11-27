@@ -64,7 +64,8 @@ public class ejercicio1 {
 
             for (int j = 0; j < 100; j++) {
                 if (array[j]==minimo){
-                    System.out.print("**"+minimo+"** ");}
+                    System.out.print("**"+minimo+"** ");
+                    j++;}
                 if (j%20==0){
                     System.out.println();
                     System.out.print(array[j]+" ");

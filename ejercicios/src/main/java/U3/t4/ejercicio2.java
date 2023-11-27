@@ -19,39 +19,31 @@ public class ejercicio2 {
             b[j] = teclado2.nextLine();
         }
 
-        int y=0;
+        int y = 0;
         for (int j = 0; j < 8; j++) {
             for (int i = 0; i < 9; i++) {
-            if (b[j].equalsIgnoreCase(a[i])){
-                c[y]=b[j];
-                y++;
-            }
+                if (b[j].equalsIgnoreCase(a[i])) {
+                    c[y] = b[j];
+                    y++;
+                }
 
             }
         }
 
         for (int j = 0; j < 8; j++) {
-            System.out.print(c[j]+" ");
+            System.out.println(c[j]);
+        }
+
+        for (int j = 0; j < 8; j++) {
+            for (int i = 0; i < 9; i++){
+                if (!b[j].equalsIgnoreCase(a[i])){
+                c[y]=b[j];
+                    y++;}
+               }
+
         }
 
         System.out.println(y);
-
-        for (int j = 0; j < 8; j++) {
-            for (int i = 0; i < 9; i++) {
-                if (!b[j].equalsIgnoreCase(a[i])){
-                    c[y]=b[j];
-                }
-                y++;
-
-            }
-        }
-
-        for (int j = 0; j < 8; j++) {
-            System.out.print(c[j]+" ");
-        }
-
-
-
 
     }
 }
