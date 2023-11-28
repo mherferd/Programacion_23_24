@@ -34,12 +34,13 @@ public class ejercicio3 {
         for (int j = 0; j < 10; j++) {
             if ((ocupacion[j] < minimo)&&(num+ocupacion[j]<=4)) {
                 minimo = ocupacion[j];
-                ocupacion[j]=num+ocupacion[j];}
+                ocupacion[j]=num+ocupacion[j];
+                System.out.println("Adelante, pase a la mesa "+j);}
         }
         minimo=0;
 
-        System.out.println(Arrays.toString(n_mesa));
-        System.out.println(Arrays.toString(ocupacion));
+        System.out.println("Nº de mesa:  "+Arrays.toString(n_mesa));
+        System.out.println("Ocupacion: "+Arrays.toString(ocupacion));
     }
     while (num!=-1);}
 }
