@@ -46,7 +46,7 @@ public class ejercicio4 {
         num_2=num2;
 
         while (num_1+num_2<=14){
-            System.out.print(columna[num_1);
+            System.out.print(columna[num_1]);
             System.out.println(fila[num_2]);
             num_1++;
             num_2++;
