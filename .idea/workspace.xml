@@ -5,489 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18bd5b3a-c182-4d49-90fe-6afedd735235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/examenes/U1/examen_3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/examenes/U1/examen_4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/U1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programacion_23_24.iml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/Programacion_23_24.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/U1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/Examen/ej1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/Examen/ej1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/Examen/ej2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/Examen/ej2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/Examen/ej3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/Examen/ej3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/Examen/ej4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/Examen/ej4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/examenes/U1/entregable.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/examenes/U1/entregable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/examenes/U1/examen_1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/examenes/U1/examen_1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/examenes/U1/examen_2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/examenes/U1/examen_2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/examenes/U1/examen_3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/examenes/U1/examen_3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/examenes/U1/examen_3_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/examenes/U1/examen_4_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/examenes/U1/examen_4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/examenes/U1/examen_4_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/examenes/U1/examen_4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/examenes/U1/examen_4_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/intro_bucles_condicionales/U1_Entregable/EJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/intro_bucles_condicionales/U1_Entregable/EJ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/intro_bucles_condicionales/U1_Entregable/EJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/intro_bucles_condicionales/U1_Entregable/EJ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/intro_bucles_condicionales/U1_Entregable/EJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/intro_bucles_condicionales/U1_Entregable/EJ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/intro_bucles_condicionales/U1_Entregable/EJ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/intro_bucles_condicionales/U1_Entregable/EJ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t1/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t1/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t2/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t2/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t2/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t2/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t2/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t2/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t2/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t2/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t2/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t2/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t3/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t3/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t3/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t3/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t3/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t3/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t3/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t3/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t4/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t4/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t4/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t4/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t4/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t4/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t4/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t4/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t4/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t4/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5/ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio15.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio16.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio17.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio18.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio19.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio20.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio21.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio22.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio23.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio24.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio25.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t5b/ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t5b/ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t6/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t6/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t6/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t6/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t6/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t6/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t6/ejercicio3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t6/ejercicio3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t6/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t6/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t6/ejercicio4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t6/ejercicio4_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t6/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t6/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t7/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t7/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t7/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t7/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t7/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t7/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio14.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio15.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8a/ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8a/ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U1/t8b/ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U1/t8b/ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U2/t1/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U2/t1/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U2/t1/t1/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U2/t1/t1/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U2/t1/t1/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U2/t1/t1/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/ENTREGABLE/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/ENTREGABLE/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/ENTREGABLE/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/ENTREGABLE/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/ENTREGABLE/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/ENTREGABLE/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/ENTREGABLE/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/ENTREGABLE/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/Entregable_2021/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_2021/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t1/ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t1/ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t2/ejercicio9_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t2/ejercicio9_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t3/ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t3/ejercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t4/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t4/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t4/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t4/ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t4/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t4/ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t4/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t4/ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/U3/t4/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/t4/ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicios/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/META-INF/Programacion_23_24.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/META-INF/Programacion_23_24.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/.idea/libraries/gradle_wrapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/Examen/ej1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/Examen/ej1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/Examen/ej2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/Examen/ej2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/Examen/ej3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/Examen/ej3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/Examen/ej4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/Examen/ej4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/Programacion_23_24.iml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/Programacion_23_24.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/src/main/java/U3/Entregable_2021/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/src/main/java/U3/Entregable_2021/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/src/main/java/U3/t4/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/src/main/java/U3/t4/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/ejercicios/src/main/java/U3/t4/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/ejercicios/src/main/java/U3/t4/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/entregable.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/entregable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/examen_1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/examen_1_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/examen_2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/examen_2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/examen_3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/examen_3_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/examen_3_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/examen_3_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/examen_4_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/examen_4_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/examen_4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/examen_4_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/examen_4_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/examen_4_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/t1/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/t1/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/examenes/U1/t1/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/examenes/U1/t1/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/intro_bucles_condicionales/U1_Entregable/EJ1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/intro_bucles_condicionales/U1_Entregable/EJ1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/intro_bucles_condicionales/U1_Entregable/EJ2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/intro_bucles_condicionales/U1_Entregable/EJ2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/intro_bucles_condicionales/U1_Entregable/EJ3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/intro_bucles_condicionales/U1_Entregable/EJ3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/intro_bucles_condicionales/U1_Entregable/EJ4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/intro_bucles_condicionales/U1_Entregable/EJ4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t1/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t1/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t2/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t2/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t2/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t2/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t2/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t2/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t2/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t2/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t2/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t2/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t3/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t3/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t3/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t3/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t3/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t3/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t3/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t3/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t4/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t4/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t4/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t4/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t4/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t4/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t4/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t4/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t4/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t4/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio12.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio13.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio14.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio15.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio16.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio17.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio18.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio19.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio20.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio21.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio22.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio23.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio24.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio25.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t5b/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t5b/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t6/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t6/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t6/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t6/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t6/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t6/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t6/ejercicio3_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t6/ejercicio3_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t6/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t6/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t6/ejercicio4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t6/ejercicio4_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t6/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t6/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t7/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t7/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t7/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t7/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t7/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t7/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio12.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio13.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio14.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio15.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8a/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8a/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U1/t8b/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U1/t8b/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U2/t1/ejercicio1$ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U2/t1/ejercicio1$ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U2/t1/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U2/t1/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio12.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t1/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t1/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t2/ejercicio9_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t2/ejercicio9_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t3/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t3/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t4/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t4/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t4/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t4/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t4/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t4/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/U3/t4/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/U3/t4/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programacion_23_24/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/Programacion_23_24/org/example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/Examen/ej1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/Examen/ej1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/Examen/ej2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/Examen/ej2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/Examen/ej3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/Examen/ej3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/Examen/ej4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/Examen/ej4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/entregable.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/entregable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/examen_1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/examen_1_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/examen_2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/examen_2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/examen_3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/examen_3_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/examen_3_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/examen_3_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/examen_4_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/examen_4_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/examen_4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/examen_4_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/examen_4_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/examen_4_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/t1/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/t1/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/examenes/U1/t1/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/examenes/U1/t1/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/intro_bucles_condicionales/U1_Entregable/EJ1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/intro_bucles_condicionales/U1_Entregable/EJ1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/intro_bucles_condicionales/U1_Entregable/EJ2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/intro_bucles_condicionales/U1_Entregable/EJ2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/intro_bucles_condicionales/U1_Entregable/EJ3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/intro_bucles_condicionales/U1_Entregable/EJ3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/intro_bucles_condicionales/U1_Entregable/EJ4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/intro_bucles_condicionales/U1_Entregable/EJ4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t1/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t1/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t2/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t2/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t2/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t2/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t2/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t2/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t2/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t2/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t2/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t2/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t3/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t3/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t3/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t3/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t3/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t3/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t3/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t3/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t4/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t4/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t4/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t4/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t4/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t4/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t4/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t4/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t4/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t4/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio12.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio13.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio14.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio15.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio16.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio17.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio18.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio19.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio20.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio21.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio22.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio23.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio24.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio25.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t5b/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t5b/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t6/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t6/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t6/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t6/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t6/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t6/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t6/ejercicio3_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t6/ejercicio3_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t6/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t6/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t6/ejercicio4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t6/ejercicio4_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t6/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t6/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t7/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t7/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t7/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t7/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t7/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t7/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio12.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio13.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio14.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio15.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8a/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8a/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U1/t8b/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U1/t8b/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U2/t1/ejercicio1$ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U2/t1/ejercicio1$ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U2/t1/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U2/t1/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/ENTREGABLE/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/ENTREGABLE/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/ENTREGABLE/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/ENTREGABLE/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/ENTREGABLE/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/ENTREGABLE/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/ENTREGABLE/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/ENTREGABLE/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio11.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio12.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t1/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t1/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t2/ejercicio9_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t2/ejercicio9_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio10.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t3/ejercicio9.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t3/ejercicio9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t4/ejercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t4/ejercicio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t4/ejercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t4/ejercicio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t4/ejercicio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t4/ejercicio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/U3/t4/ejercicio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/U3/t4/ejercicio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ejercicios/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/U1/out/production/ejercicios/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programacion/ejercicios/src/main/java/U3/t4/ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/programacion/ejercicios/src/main/java/U3/t4/ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programacion/ejercicios/src/main/java/U3/t4/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/programacion/ejercicios/src/main/java/U3/t4/ejercicio6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mherferd"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mherferd&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -499,9 +41,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2Z4x231W1f3VpcgCS0DULWOy7W1" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -510,15 +52,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/User/Desktop/Programacion_23_24"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Programacion_23_24&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Programacion_23_24" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Programacion_23_24" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

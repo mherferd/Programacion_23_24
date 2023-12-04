@@ -1,4 +1,4 @@
-package U1.U1.ejercicios.src.main.java.U3.t4;
+package U3.t4;
 
 public class ejercicio6 {
 

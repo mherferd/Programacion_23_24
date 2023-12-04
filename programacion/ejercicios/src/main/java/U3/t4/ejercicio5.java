@@ -1,6 +1,6 @@
-package U1.U1.ejercicios.src.main.java.U3.t4;
+package U3.t4;
 
-import java.sql.SQLOutput;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ejercicio5 {
