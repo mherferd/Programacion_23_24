@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18bd5b3a-c182-4d49-90fe-6afedd735235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_2021/ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_2021/ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_2021/ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_PRA/ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_PRA/ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_PRA/ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_PRA/ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/EXAMEN_23-24/ejercicio1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMACION_23_24/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMACION_23_24/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMACION_23_24/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMACION_23_24/PROGRAMACION_23_24.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_2021/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_2021/ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_PRA/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/U1/ejercicios/src/main/java/U3/Entregable_PRA/ejercicio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/User/Documents/Programacion_23_24"
+    "last_opened_file_path": "C:/Users/DAW_M/Documents/GitHub/Programacion_23_24/U1/ejercicios"
   }
 }]]></component>
   <component name="RunManager">

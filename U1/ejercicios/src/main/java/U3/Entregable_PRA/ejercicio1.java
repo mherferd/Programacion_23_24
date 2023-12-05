@@ -1,5 +1,7 @@
 package U1.U1.ejercicios.src.main.java.U3.Entregable_PRA;
 
+import java.util.Scanner;
+
 public class ejercicio1{
     public static void main(String[] args) {
         Scanner teclado2 = new Scanner(System.in);
