@@ -28,8 +28,8 @@ public class ejercicio3 {
 
         int contador=0;
 
-        for (int i = 0; i < datos.length; i++) {
-            for (int j = 0; j < datos.length; j++) {
+        for (int i = 0; i < filas; i++) {
+            for (int j = 0; j < columnas; j++) {
                 if (((i%2==0)&&(j%2==0))|(i==0 && j==0)){
                 contador++;
             }}
@@ -38,8 +38,8 @@ public class ejercicio3 {
         int [] pares = new int [contador];
 
         int contador2=0;
-        for (int i = 0; i < datos.length; i++) {
-            for (int j = 0; j < datos.length; j++) {
+        for (int i = 0; i < filas; i++) {
+            for (int j = 0; j < columnas; j++) {
                 if (((i%2==0)&&(j%2==0))|(i==0 && j==0)){
                     pares[contador2]=datos[i][j];
                     contador2++;
@@ -49,8 +49,8 @@ public class ejercicio3 {
 
         contador=0;
 
-        for (int i = 0; i < datos.length; i++) {
-            for (int j = 0; j < datos.length; j++) {
+        for (int i = 0; i < filas; i++) {
+            for (int j = 0; j < columnas; j++) {
                 if (((i%2!=0)&&(j%2!=0))){
                     contador++;
                 }}
@@ -59,8 +59,8 @@ public class ejercicio3 {
         int [] impares = new int [contador];
 
         contador2=0;
-        for (int i = 0; i < datos.length; i++) {
-            for (int j = 0; j < datos.length; j++) {
+        for (int i = 0; i < filas; i++) {
+            for (int j = 0; j < columnas; j++) {
                 if (((i%2!=0)&&(j%2!=0))){
                     impares[contador2]=datos[i][j];
                     contador2++;
