@@ -127,6 +127,15 @@ public class ejercicio3 {
         }
         System.out.println("MÍNIMO DE IMPARES: "+minimo);
 
+
+        Scanner teclado7 = new Scanner(System.in);
+        System.out.print("Introduzca la posición del alfil: ");
+        String posicion = teclado7.nextLine();
+
+        int columna = (posicion.charAt(0));
+        int fila = (posicion.charAt(1));
+        System.out.println(columna +"  "+fila);
+
     }
 
 
