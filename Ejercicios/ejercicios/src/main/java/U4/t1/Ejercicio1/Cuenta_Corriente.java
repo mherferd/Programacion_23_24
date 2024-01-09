@@ -1,31 +1,44 @@
 package U1.ejercicios.src.main.java.U4.t1.Ejercicio1;
 
 public class Cuenta_Corriente {
-    private double saldo;
-    private double limite_de_descubrimiento;
+    private long saldo;
+    private long limite_de_descubrimiento;
     private String Nombre;
     private String DNI;
 
-    public void crear_cuenta(String Nombre, String DNI){
-        saldo=0;
-        limite_de_descubrimiento=-50;
+    public Cuenta_Corriente (String Nombre, String DNI){
+        this.saldo=0;
+        this.limite_de_descubrimiento=-50;
+        this.Nombre = Nombre;
+        this.DNI = DNI;
     }
 
-    public boolean sacar_dinero (){
-        if (saldo<limite_de_descubrimiento)
-            {return true;}
+
+    public boolean sacar_dinero (long dinero){
+        boolean resultado = false;
+
+        if (saldo-dinero<limite_de_descubrimiento)
+            {
+                System.out.println("La operación no ha sido realizada");}
         else
-            {return false;}
+            {
+                System.out.println("La operación ha sido realizada");
+                saldo =- dinero;
+                resultado= true;}
+        return resultado;
     }
 
-    public void ingresar_dinero(double dinero){
+    public void ingresar_dinero(long dinero){
         saldo=saldo+dinero;
     }
 
-    public void mostrar_informacion(){
-        System.out.println("NOMBRE: " +Nombre);
-        System.out.println("DNI: " +DNI);
-        System.out.println("SALDO:" +saldo);
-        System.out.println("LÍMITE DE DESCUBRIMIMENTO: " +limite_de_descubrimiento);
+    @Override
+    public String toString() {
+        return "Cuenta_Corriente{" +
+                "saldo=" + saldo +
+                ", limite_de_descubrimiento=" + limite_de_descubrimiento +
+                ", Nombre='" + Nombre + '\'' +
+                ", DNI='" + DNI + '\'' +
+                '}';
     }
 }
