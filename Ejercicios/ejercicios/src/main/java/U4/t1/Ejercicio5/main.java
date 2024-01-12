@@ -28,6 +28,8 @@ public class main {
         String mensaje_final2 = TXT1.sumarcaracter2(caracter2);
         System.out.println(mensaje_final2);
 
+        TXT1.contarMAYUSminus();
+
 
 
 

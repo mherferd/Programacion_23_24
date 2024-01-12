@@ -50,12 +50,40 @@ public class Texto {
     public void contarMAYUSminus (){
         int contadorMAYUS =0, contadorminus=0;
         for (int i=0; i<cadena.length(); i++){
-            if (cadena.charAt(i) == "A" ){
+            if (cadena.charAt(i) =='A' ){
                 contadorMAYUS++;
+            }
+            if (cadena.charAt(i) =='E' ){
+                contadorMAYUS++;
+            }
+            if (cadena.charAt(i) =='I' ){
+                contadorMAYUS++;
+            }
+            if (cadena.charAt(i) =='O' ){
+                contadorMAYUS++;
+            }
+            if (cadena.charAt(i) =='U' ){
+                contadorMAYUS++;
+            }
+            if (cadena.charAt(i) =='a' ){
+                contadorminus++;
+            }
+            if (cadena.charAt(i) =='e' ){
+                contadorminus++;
+            }
+            if (cadena.charAt(i) =='i' ){
+                contadorminus++;
+            }
+            if (cadena.charAt(i) =='o' ){
+                contadorminus++;
+            }
+            if (cadena.charAt(i) =='u' ){
+                contadorminus++;
             }
 
         }
-
+        System.out.println("La cantidad de vocales mayúsculas es :" +contadorMAYUS);
+        System.out.println("La cantidad de vocales minúsculas es :" +contadorminus);
     }
 
 }

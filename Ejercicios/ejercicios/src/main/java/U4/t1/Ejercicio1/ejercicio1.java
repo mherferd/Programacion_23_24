@@ -16,6 +16,5 @@ public class ejercicio1 {
         Cuenta_Corriente cuenta2 = new Cuenta_Corriente(Nombre, DNI);
 
         System.out.println(cuenta1);
-
     }
 }
