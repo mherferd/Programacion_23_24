@@ -9,7 +9,16 @@ public class main {
         System.out.println("Longitud: ");
         int longitud = teclado.nextInt();
 
+        System.out.println("numero: ");
+        int numero = teclado.nextInt();
+
+        int posicion = 4;
+
         Lista lista1= new Lista();
         lista1.generar(longitud);
+        lista1.anadir1(numero);
+        lista1.anadir2(numero);
+        lista1.anadir3(numero, posicion);
+
     }
 }

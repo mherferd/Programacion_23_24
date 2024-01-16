@@ -17,8 +17,23 @@ public class Lista {
 
     public void generar (int longitud){
         for (int i=0; i<longitud; i++){
-            int numero= (int) (Math.random()*100);
-            System.out.println(numero);}
+            int introducido= (int) (Math.random()*100);
+             lista.add(i,introducido);
+    }}
+
+    public void anadir1 (int numero){
+        lista.add(0,numero);
+        System.out.println(lista);
+    }
+
+    public void anadir2 (int numero){
+        lista.add(lista.size(),numero);
+        System.out.println(lista);
+    }
+
+    public void anadir3 (int numero, int posicion){
+        lista.add(posicion,numero);
+        System.out.println(lista);
     }
 }
 

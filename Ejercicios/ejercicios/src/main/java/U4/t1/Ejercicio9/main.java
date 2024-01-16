@@ -7,6 +7,7 @@ import U1.ejercicios.src.main.java.U4.t1.Ejercicio9.Personal.Jefe_Estacion;
 import U1.ejercicios.src.main.java.U4.t1.Ejercicio9.Personal.Maquinista;
 import U1.ejercicios.src.main.java.U4.t1.Ejercicio9.Personal.Mecanico;
 
+
 public class main {
     public static void main(String[] args) {
 
@@ -16,5 +17,7 @@ public class main {
         Locomotora locomotora = new Locomotora("JLD3002", 1994, 1400, mecanico);
         Vagon vagon = new Vagon(2000,1000,"Comida");
         Tren tren = new Tren(locomotora,vagon,maquinista);
+        System.out.println(tren);
+
     }
 }
