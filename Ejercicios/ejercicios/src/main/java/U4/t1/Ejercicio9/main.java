@@ -12,7 +12,7 @@ public class main {
     public static void main(String[] args) {
 
         Jefe_Estacion jefe = new Jefe_Estacion("Antonio", "942395F");
-        Mecanico mecanico = new Mecanico("Jose", "54321C", 999999999, "Electricidad");
+        Mecanico mecanico = new Mecanico("Jose", "1234567G", 989898989, "Electricidad");
         Maquinista maquinista = new Maquinista("Raul", "2345934H", 2300, "Alto");
         Locomotora locomotora = new Locomotora("JLD3002", 1994, 1400, mecanico);
         Vagon vagon = new Vagon(2000,1000,"Comida");

@@ -6,7 +6,7 @@ public class Locomotora {
     private String matricula;
     private int ano;
     private double potencia;
-    Mecanico mecanico = new Mecanico();
+    private Mecanico mecanico = new Mecanico();
 
     public Locomotora() {
     }
@@ -16,5 +16,15 @@ public class Locomotora {
         this.ano = ano;
         this.potencia = potencia;
         this.mecanico = mecanico;
+    }
+
+    @Override
+    public String toString() {
+        return "Locomotora{" +
+                "matricula='" + matricula + '\'' +
+                ", ano=" + ano +
+                ", potencia=" + potencia +
+                ", mecanico=" + mecanico +
+                '}';
     }
 }

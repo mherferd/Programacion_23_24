@@ -15,4 +15,14 @@ public class Mecanico {
         this.tlfno = tlfno;
         this.especialidad = especialidad;
     }
+
+    @Override
+    public String toString() {
+        return "Mecanico{" +
+                "nombre='" + nombre + '\'' +
+                ", DNI='" + DNI + '\'' +
+                ", tlfno=" + tlfno +
+                ", especialidad='" + especialidad + '\'' +
+                '}';
+    }
 }
