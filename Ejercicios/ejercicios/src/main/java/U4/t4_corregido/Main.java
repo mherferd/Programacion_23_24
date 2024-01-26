@@ -6,8 +6,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        Pizza pizza1 = new Pizza();
         Ingrediente queso = new Ingrediente();
+
+        Pizza pizza1 = new Pizza();
+
 
         System.out.println(pizza1);
 
@@ -24,7 +26,6 @@ public class Main {
 
             switch (n){
                 case 1:
-                    System.out.println(ingrediente.length);
                     break;
             }
         } while (n!=4);

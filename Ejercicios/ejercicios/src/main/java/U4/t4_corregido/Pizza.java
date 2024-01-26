@@ -13,7 +13,6 @@ public class Pizza {
     }
 
     public Pizza(Ingrediente[] ingredientes) {
-
         this.tamano = Tamanos.FAMILIAR;
     }
 
