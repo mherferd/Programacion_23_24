@@ -29,7 +29,7 @@ public class Television extends  Electrodomestico{
         return Sintonizador;
     }
 
-    public void getPrecioFinal(){
+    public double getPrecioFinal(){
         if (Resolucion>40 && Sintonizador ){
             Precio_final= (Precio_final*1.3)+50;
         }
@@ -38,6 +38,7 @@ public class Television extends  Electrodomestico{
         } else if (Resolucion>40) {
             Precio_final=Precio_final*1.3;
         }
+        return Precio_final;
     }
 
     @Override

@@ -1,11 +1,26 @@
 package U1.ejercicios.src.main.java.U5.t1.ejercicio9;
 
-public class Electrodomestico {
+public class Electrodomestico implements Comparable {
     public double Precio_base;
     public double Peso;
     private CONSUMO consumo;
     private COLOR color;
     private double Precio_final = getPrecio_base();
+
+    @Override
+    public int compareTo(Object o) {
+        if(this==o || o==null) return 0;
+        Electrodomestico electrodomestico = (Electrodomestico) o;
+        if(this.Precio_final> electrodomestico.Precio_final){
+            return -1;
+        }
+        else if (this.Precio_final<electrodomestico.Precio_final){
+            return 1;
+        }
+        return 0;
+    }
+
+
     public enum COLOR{
         blanco,negro,rojo,azul,gris
     }
@@ -87,7 +102,9 @@ public class Electrodomestico {
             Precio_final=Precio_base+100;
         }
 
-        return Precio_base;
+
+
+        return Precio_final;
     }
 
     @Override

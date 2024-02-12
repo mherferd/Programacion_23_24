@@ -8,8 +8,8 @@ public class main {
         Cliente[] lista= new Cliente[5];
 
         Cliente c1 = new Cliente("20202020D", "Jose", 2000, 23);
-        Cliente c2 = new Cliente("83743562G", "David", 7000, 31);
-        Cliente c3 = new Cliente("19287364A", "Antonio", 700, 17);
+        Cliente c2 = new Cliente("20202020D", "David", 7000, 31);
+        Cliente c3 = new Cliente("10202020D", "David", 700, 17);
         Cliente c4 = new Cliente("98765843D", "Raquel", 200, 15);
         Cliente c5 = new Cliente("73462876F", "Jose", 10000, 54);
 
@@ -20,6 +20,10 @@ public class main {
         lista[4]=c5;
 
         Arrays.sort(lista);
-        System.out.println(Arrays.toString(lista));
+        Arrays.sort(lista, new Comparar_Edad());
+        for (int i=0; i< lista.length; i++){
+        System.out.println(lista[i]);
+            System.out.println();}
+
     }
 }

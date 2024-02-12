@@ -10,10 +10,10 @@ public class Cuadrado extends PoligonoRegular{
     }
 
 
-
     @Override
     public String toString() {
-        return "Cuadrado{" +
+        return super.toString()
+                +"Cuadrado{" +
                 "Lado=" + Lado +
                 '}';
     }

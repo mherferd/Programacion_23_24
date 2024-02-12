@@ -8,6 +8,7 @@ public abstract class  PoligonoRegular implements Figura{
     }
     private int ContadorPoligonos=0;
     protected int Lado;
+    private Color color;
     public enum Color{
         AZUL,
         ROJO,
@@ -15,16 +16,17 @@ public abstract class  PoligonoRegular implements Figura{
         AMARILLO
     }
 
-    public PoligonoRegular(int lado, Color Color) {
+    public PoligonoRegular(int lado) {
         Lado = lado;
-        Color= Color.AZUL;
+        color= Color.AZUL;
     }
 
     @Override
-    public String toString() {
+    public String  toString() {
         return "PoligonoRegular{" +
                 "ContadorPoligonos=" + ContadorPoligonos +
                 ", Lado=" + Lado +
+                ", color=" + color +
                 '}';
     }
 

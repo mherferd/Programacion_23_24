@@ -6,7 +6,7 @@ public class Triangulo extends PoligonoRegular implements Comparable{
     protected int Altura;
 
     public Triangulo(int lado, int altura) {
-        super(lado,Color);
+        super(lado);
         Altura = altura;
     }
 

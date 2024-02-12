@@ -2,7 +2,7 @@ package U1.ejercicios.src.main.java.U5.t1.ejercicio9;
 
 import java.util.Objects;
 
-public class Lavadora extends Electrodomestico implements Comparable{
+public class Lavadora extends Electrodomestico{
     private int Carga;
 
     private double Precio_final=getPrecio_base();
@@ -55,23 +55,11 @@ public class Lavadora extends Electrodomestico implements Comparable{
     @Override
     public String toString() {
         return
-                super.toString()+
-                        "Lavadora{" +
+                super.toString()+ "Lavadora{" +
                 "Carga=" + Carga +
                 ", Precio_final=" + Precio_final +
                 '}';
     }
 
-    @Override
-    public int compareTo(Object o) {
-        if(this==o || o==null) return 0;
-        Lavadora lavadora = (Lavadora) o;
-        if(this.Precio_final> lavadora.Precio_final){
-            return -1;
-        }
-        else if (this.Precio_final<lavadora.Precio_final){
-            return 1;
-        }
-        return 0;
-    }
+
 }
