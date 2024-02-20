@@ -71,7 +71,7 @@ public class Baloncesto extends Deporte{
         Arrays.sort(Lista_Participantes, new Ordenacion_Participantes());
         System.out.println(Arrays.toString(Lista_Participantes));
     }
-
+    
 
 
     @Override

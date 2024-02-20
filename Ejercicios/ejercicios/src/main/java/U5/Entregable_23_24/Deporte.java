@@ -31,10 +31,7 @@ public abstract class Deporte {
         Pabellon = pabellon;
     }
 
-    public void mostrarJugadoresBaloncestoPorAltura(Baloncestistas[] lista_baloncesto){
-        Arrays.sort(lista_baloncesto, new Ordenacion_Baloncesto());
-        System.out.println(Arrays.toString(lista_baloncesto));
-    }
+
 
     @Override
     public String toString() {
