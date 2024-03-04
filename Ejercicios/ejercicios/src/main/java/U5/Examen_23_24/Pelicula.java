@@ -59,7 +59,7 @@ public class Pelicula extends Multimedia implements Reproducible{
     public void setPais(String pais) {
         Pais = pais;
     }
-    
+
 
     @Override
     public void play() {
