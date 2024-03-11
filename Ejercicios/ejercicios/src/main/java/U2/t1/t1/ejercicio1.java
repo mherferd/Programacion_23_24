@@ -1,4 +1,4 @@
-package U2.t1;
+package U1.ejercicios.src.main.java.U2.t1.t1;
 
 import java.util.Scanner;
 
