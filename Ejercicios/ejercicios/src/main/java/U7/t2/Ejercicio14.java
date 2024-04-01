@@ -5,19 +5,20 @@ import java.util.*;
 public class Ejercicio14 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
+        String cadena = "Te vash perma";
 
-        List<String> cadena = new ArrayList<>();
-        cadena.add("Hola");
 
-      //  leeCadena(cadena);
+        List resultado = leeCadena(cadena);
+        System.out.println(resultado);
 
     }
-  //  private static List<Character> leeCadena(cadena){
-    //    TreeSet<String> todos = new TreeSet<>();
-      //  todos.addAll(conjunto1);
-        //todos.addAll(conjunto2);
+  private static List<Character> leeCadena(String cadena) {
+      List<Character> todos = new ArrayList<>();
 
-       // return todos;
+      for (int i=0; i< cadena.length(); i++){
+          todos.add(cadena.charAt(i));
+      }
+      return todos;
+  }
 
-    //}
 }

@@ -38,12 +38,9 @@ public class Ejercicio11 {
             System.out.println(resultado);
         }
         private static Set interseccion (Set conjunto1, Set conjunto2) {
-            LinkedHashSet<String> repetidos = new LinkedHashSet<>();
-            for (Object palabra : conjunto1) {
-                if (!conjunto2.contains(palabra)) {
-                    repetidos.add((String) palabra);
-                }
-            }
+            LinkedHashSet repetidos = new LinkedHashSet();
+            repetidos.addAll(conjunto1);
+            repetidos.removeAll(conjunto2);
             return repetidos;
         }
 

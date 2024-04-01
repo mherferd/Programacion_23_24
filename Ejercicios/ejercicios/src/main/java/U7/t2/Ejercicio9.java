@@ -36,7 +36,7 @@ public class Ejercicio9 {
         System.out.println(resultado);
     }
     private static Set union (Set conjunto1, Set conjunto2){
-        LinkedHashSet<String> rep = new LinkedHashSet<>();
+        LinkedHashSet rep = new LinkedHashSet<>();
         rep.addAll(conjunto1);
         rep.addAll(conjunto2);
         return rep;

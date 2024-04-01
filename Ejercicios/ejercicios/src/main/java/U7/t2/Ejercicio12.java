@@ -21,12 +21,14 @@ public class Ejercicio12 {
             conjunto.add("Guapisimos");
 
 
+
             conjunto2.add("Ey");
             conjunto2.add("Muy");
             conjunto2.add("Buenas");
             conjunto2.add("A");
             conjunto2.add("Todos");
             conjunto2.add("Guapisimos");
+
 
 
 
@@ -39,12 +41,7 @@ public class Ejercicio12 {
             System.out.println(res_final);
         }
         private static boolean incluido (Set conjunto1, Set conjunto2) {
-            boolean resultado = false;
-            if (conjunto2.containsAll(conjunto1)) {
-                     return true;
-            }
-
-            return resultado;
+            return conjunto2.containsAll(conjunto1);
 
         }
 
