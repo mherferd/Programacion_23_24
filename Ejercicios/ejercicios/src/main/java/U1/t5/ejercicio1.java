@@ -13,7 +13,6 @@ public class ejercicio1 {
             System.out.println("el número " + num1 + " es negativo");
         } else {
             System.out.println("el número " + num1 + " es positivo");
-
         }
     }
 }

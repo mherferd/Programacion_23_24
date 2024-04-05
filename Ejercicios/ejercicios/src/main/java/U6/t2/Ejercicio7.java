@@ -18,6 +18,8 @@ public class Ejercicio7 {
             } catch (IOException ex) {
                 System.out.println(ex.getMessage());
             }
+
+
         try (ObjectInputStream Lee = new ObjectInputStream(new FileInputStream("C:\\Ficheros_UD6\\t2\\Ej7\\archivo.bin"))){
             System.out.println(texto);
         } catch (IOException ex) {
