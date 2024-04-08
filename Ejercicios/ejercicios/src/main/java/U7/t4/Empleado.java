@@ -22,7 +22,6 @@ public class Empleado extends Persona implements Serializable{
     public String toString() {
         return
         super.toString()+
-                "Sueldo=" + Sueldo +
-                '}';
+                "Sueldo=" + Sueldo ;
     }
 }

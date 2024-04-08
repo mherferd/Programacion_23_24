@@ -1,5 +1,6 @@
 package U1.ejercicios.src.main.java.U7.t4;
 
+import U1.ejercicios.src.main.java.U4.t2.Ejercicio1.Lista;
 import U1.ejercicios.src.main.java.U5.t1.Examen21_22_MANANA.Personas;
 
 import java.io.*;
@@ -14,6 +15,7 @@ public class Main {
     public static void main(String[] args) {
 
 
+        ArrayList<Empleado> Lista_empleados = new ArrayList<>();
         Map<String, Empleado> diccionario = new HashMap<>();
 
         Scanner teclado = new Scanner(System.in);
@@ -29,7 +31,11 @@ public class Main {
         switch (decision) {
             case 1:
                 crear_fichero();
-                leer_fichero(diccionario);
+                ArrayList<Empleado> lista_diccionario = leer_fichero(Lista_empleados);
+                for (int i=0; i<lista_diccionario.size();i++){
+                  diccionario.put(String.valueOf(lista_diccionario.get(i)), lista_diccionario.get(i));}
+                System.out.println(diccionario);
+                System.out.println();
                 break;
 
             case 2:
@@ -132,17 +138,18 @@ public class Main {
 
 
 
-    public static void leer_fichero(Map<String,Empleado> mapa) {
+    public static ArrayList<Empleado> leer_fichero(ArrayList<Empleado> Lista) {
 
         try (ObjectInputStream Lee = new ObjectInputStream(new FileInputStream("C:\\Archivos_PRO\\EJERCICIO_T4.bin"))){
-            ArrayList<Empleado> Lista = (ArrayList<Empleado>)Lee.readObject();
-            System.out.println(Lista);
+            Lista = (ArrayList<Empleado>)Lee.readObject();
         } catch (IOException ex) {
             System.out.println(ex.getMessage());
         } catch (ClassNotFoundException e) {
             throw new RuntimeException(e);
         }
 
+
+        return Lista;
     }
 
     public static void borrar_empleado(Map<String,Empleado> mapa) {

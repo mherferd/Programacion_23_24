@@ -49,11 +49,10 @@ public class Persona implements Serializable{
 
     @Override
     public String toString() {
-        return "Empleado{" +
-                "Nombre='" + Nombre + '\'' +
-                ", DNI='" + DNI + '\'' +
-                ", Edad=" + Edad +
-                ", Estatura=" + Estatura +
-                '}';
+        return " \nEmpleado \n" +
+                "Nombre='" + Nombre + '\n' +
+                "DNI=" + DNI + '\n' +
+                "Edad=" + Edad + '\n'+
+                "Estatura=" + Estatura +'\n';
     }
 }
