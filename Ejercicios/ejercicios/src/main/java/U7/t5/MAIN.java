@@ -9,28 +9,39 @@ import java.util.Scanner;
 public class MAIN {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        Map<String, Aspirante> diccionario = new HashMap<>();
 
-        System.out.println("------------MENU-----------");
-        System.out.println("1. Introducir datos de aspirantes");
-        System.out.println("2. Calificar prueba");
-        System.out.println("3. Aprobados");
-        System.out.println("4. Salir");
+        InsertaAspirante is1 = new InsertaAspirante();
+        CalificacionPruebas cal1 = new CalificacionPruebas();
+        Aprobados ap1 = new Aprobados();
 
-        Aspirante a1 = new Aspirante("Joselito","101010A",123123123);
+        int decision;
+        HashMap<Integer,Aspirante> Lista = new HashMap<>();
 
-        int decision = teclado.nextInt();
 
-        switch (decision){
-            case 1:
-                InsertaAspirante.
-                break;
-            case 2 :
+        do {
+            System.out.println("------------MENU-----------");
+            System.out.println("1. Introducir datos de aspirantes");
+            System.out.println("2. Calificar prueba");
+            System.out.println("3. Aprobados");
+            System.out.println("4. Salir");
+            decision = teclado.nextInt();
 
-                break;
-            case 3 :
 
-                break;
-        }
+            switch (decision) {
+                case 1:
+                    is1.IntroducirAspirantes();
+                    is1.guardarFicheros();
+                    break;
+                case 2:
+                    cal1.leeFichero();
+                    cal1.guardarFicheros();
+                    break;
+                case 3:
+                    ap1.LeeFichero();
+                    break;
+            }
+        }while(decision!=4);
     }
+
+
 }
