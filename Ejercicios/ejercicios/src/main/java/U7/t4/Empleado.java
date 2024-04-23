@@ -1,27 +1,27 @@
 package U1.ejercicios.src.main.java.U7.t4;
 
-import java.io.Serializable;
-public class Empleado extends Persona implements Serializable{
+public class Empleado extends Persona {
+    private double sueldo;
+    private Departamento departamento;
+    private String sos;
 
-    private int Sueldo;
-
-    public Empleado(String nombre, String DNI, int edad, double estatura, int sueldo) {
-        super(nombre, DNI, edad, estatura);
-        Sueldo=sueldo;
-    }
-
-    public int getSueldo() {
-        return Sueldo;
-    }
-
-    public void setSueldo(int sueldo) {
-        Sueldo = sueldo;
+    public Empleado(
+            String nombre,
+            String dni,
+            int edad,
+            double estatura,
+            double sueldo,
+            Departamento departamento,
+            String sos) {
+        super(nombre, dni, edad, estatura);
+        this.sueldo = sueldo;
+        this.departamento = departamento;
+        this.sos = sos;
     }
 
     @Override
     public String toString() {
-        return
-        super.toString()+
-                "Sueldo=" + Sueldo ;
+        return super.toString() + "sueldo=" + sueldo + "departamento=" + departamento + "sos= " + sos;
     }
 }
+

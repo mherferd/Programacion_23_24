@@ -1,58 +1,35 @@
 package U1.ejercicios.src.main.java.U7.t4;
+
 import java.io.Serializable;
 
-public class Persona implements Serializable{
+public class Persona implements Serializable {
+    private String nombre;
+    private String dni;
+    private int edad;
+    private double estatura;
 
-    private String Nombre;
-    private String DNI;
-    private int Edad;
-    private double Estatura;
-
-    public Persona(String nombre, String DNI, int edad, double estatura) {
-        Nombre = nombre;
-        this.DNI = DNI;
-        Edad = edad;
-        Estatura = estatura;
+    public Persona(String nombre, String dni, int edad, double estatura) {
+        this.dni = dni;
+        this.nombre = nombre;
+        this.edad = edad;
+        this.estatura = estatura;
     }
 
-    public String getNombre() {
-        return Nombre;
-    }
-
-    public void setNombre(String nombre) {
-        Nombre = nombre;
-    }
-
-    public String getDNI() {
-        return DNI;
-    }
-
-    public void setDNI(String DNI) {
-        this.DNI = DNI;
-    }
-
-    public int getEdad() {
-        return Edad;
-    }
-
-    public void setEdad(int edad) {
-        Edad = edad;
-    }
-
-    public double getEstatura() {
-        return Estatura;
-    }
-
-    public void setEstatura(double estatura) {
-        Estatura = estatura;
+    public String getDni() {
+        return dni;
     }
 
     @Override
     public String toString() {
-        return " \nEmpleado \n" +
-                "Nombre='" + Nombre + '\n' +
-                "DNI=" + DNI + '\n' +
-                "Edad=" + Edad + '\n'+
-                "Estatura=" + Estatura +'\n';
+        return "nombre='"
+                + nombre
+                + '\''
+                + ", dni='"
+                + dni
+                + '\''
+                + ", edad="
+                + edad
+                + ", estatura="
+                + estatura;
     }
 }
