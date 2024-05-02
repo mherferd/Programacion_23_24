@@ -1,20 +1,18 @@
 package Ejercicios.ejercicios.src.main.java.Entregable_PRA_3;
 
-public class Medico {
+public class Medicos implements Serializable {
     private String nombre;
-    private String apellidos;
-    private int numeroColegiado;
+    private String apellido;
+    private int numero_colegiado;
     private String hospital;
 
-    // Constructor
-    public Medico(String nombre, String apellidos, int numeroColegiado, String hospital) {
+    public Medicos(String nombre, String apellido, int numero_colegiado, String hospital) {
         this.nombre = nombre;
-        this.apellidos = apellidos;
-        this.numeroColegiado = numeroColegiado;
+        this.apellido = apellido;
+        this.numero_colegiado = numero_colegiado;
         this.hospital = hospital;
     }
 
-    // Getters y setters
     public String getNombre() {
         return nombre;
     }
@@ -23,20 +21,20 @@ public class Medico {
         this.nombre = nombre;
     }
 
-    public String getApellidos() {
-        return apellidos;
+    public String getApellido() {
+        return apellido;
     }
 
-    public void setApellidos(String apellidos) {
-        this.apellidos = apellidos;
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
     }
 
-    public int getNumeroColegiado() {
-        return numeroColegiado;
+    public int getNumero_colegiado() {
+        return numero_colegiado;
     }
 
-    public void setNumeroColegiado(int numeroColegiado) {
-        this.numeroColegiado = numeroColegiado;
+    public void setNumero_colegiado(int numero_colegiado) {
+        this.numero_colegiado = numero_colegiado;
     }
 
     public String getHospital() {
@@ -49,10 +47,10 @@ public class Medico {
 
     @Override
     public String toString() {
-        return "Medico{" +
+        return "Medicos{" +
                 "nombre='" + nombre + '\'' +
-                ", apellidos='" + apellidos + '\'' +
-                ", numeroColegiado=" + numeroColegiado +
+                ", apellido='" + apellido + '\'' +
+                ", numero_colegiado=" + numero_colegiado +
                 ", hospital='" + hospital + '\'' +
                 '}';
     }
