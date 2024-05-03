@@ -96,7 +96,7 @@ public class Main {
         Feria.removeCaseta(C1.getNombre());
 
         //Si introduzco un nombre que no existe debe dar error, voy a probar la caseta C1 que al estar eliminada no debe existir
-        System.out.println("---------------------------------------------------------------");
+        System.out.println("--------------------------------------------------------------");
         Feria.removeCaseta(C1.getNombre());
 
     }
