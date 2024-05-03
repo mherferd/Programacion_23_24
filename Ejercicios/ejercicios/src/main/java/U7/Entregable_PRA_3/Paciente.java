@@ -1,24 +1,24 @@
 package Ejercicios.ejercicios.src.main.java.Entregable_PRA_3;
 
-public class Paciente {
+import java.io.Serializable;
+
+public class Pacientes implements Serializable {
     private String nombre;
     private int edad;
-    private double peso;
-    private boolean vacunasRequeridas;
-    private Medico medico;
+    private int peso;
+    private boolean vacunas;
+    private Medicos medico;
     private char cepa;
 
-    // Constructor
-    public Paciente(String nombre, int edad, double peso, boolean vacunasRequeridas, Medico medico, char cepa) {
+    public Pacientes(String nombre, int edad, int peso, boolean vacunas, Medicos medico, char cepa) {
         this.nombre = nombre;
         this.edad = edad;
         this.peso = peso;
-        this.vacunasRequeridas = vacunasRequeridas;
+        this.vacunas = vacunas;
         this.medico = medico;
         this.cepa = cepa;
     }
 
-    // Getters y setters
     public String getNombre() {
         return nombre;
     }
@@ -35,27 +35,27 @@ public class Paciente {
         this.edad = edad;
     }
 
-    public double getPeso() {
+    public int getPeso() {
         return peso;
     }
 
-    public void setPeso(double peso) {
+    public void setPeso(int peso) {
         this.peso = peso;
     }
 
-    public boolean isVacunasRequeridas() {
-        return vacunasRequeridas;
+    public boolean isVacunas() {
+        return vacunas;
     }
 
-    public void setVacunasRequeridas(boolean vacunasRequeridas) {
-        this.vacunasRequeridas = vacunasRequeridas;
+    public void setVacunas(boolean vacunas) {
+        this.vacunas = vacunas;
     }
 
-    public Medico getMedico() {
+    public Medicos getMedico() {
         return medico;
     }
 
-    public void setMedico(Medico medico) {
+    public void setMedico(Medicos medico) {
         this.medico = medico;
     }
 
@@ -69,13 +69,13 @@ public class Paciente {
 
     @Override
     public String toString() {
-        return "Paciente{" +
+        return "Pacientes{" +
                 "nombre='" + nombre + '\'' +
                 ", edad=" + edad +
                 ", peso=" + peso +
-                ", vacunasRequeridas=" + vacunasRequeridas +
+                ", vacunas=" + vacunas +
                 ", medico=" + medico +
-                ", cepa=" + cepa +
+                ", cepa='" + cepa + '\'' +
                 '}';
     }
 }

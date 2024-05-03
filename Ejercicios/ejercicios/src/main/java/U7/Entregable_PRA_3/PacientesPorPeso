@@ -1,0 +1,14 @@
+import java.util.Comparator;
+
+public class pacientesPorPeso implements Comparator<Pacientes> {
+    @Override
+    public int compare(Pacientes p1, Pacientes p2) {
+        if (p1.getPeso() > p2.getPeso()) {
+            return 1;
+        } else if (p1.getPeso() < p2.getPeso()) {
+            return -1;
+        } else {
+            return 0;
+        }
+    }
+}
