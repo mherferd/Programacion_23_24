@@ -11,12 +11,12 @@ public class Ejercicio3 {
             connection = DriverManager.getConnection("jdbc:sqlite:sampledatabase.db");
             Statement statement = connection.createStatement();
             statement.setQueryTimeout(30);
-            ResultSet rs = statement.executeQuery("SELECT amount, customerNumber " +" FROM payments " + "WHERE amount > 30000");
+            ResultSet rs = statement.executeQuery("SELECT employeeNumber, reportsTo " +" FROM employees " + "WHERE reportsTo = 1143");
 
 
-            while (rs.next()) { // leer el ResultSet
-                System.out.println("|| ID = " + rs.getString("customerNumber"));
-                System.out.print("Dinero = " + rs.getString("amount") +"  ");
+            while (rs.next()) {
+                System.out.print("Da cuenta a: " + rs.getInt("reportsTo") +"  ");
+                System.out.println("|| ID = " + rs.getInt("employeeNumber"));
             }
         } catch (SQLException e) {
             System.err.println(e.getMessage());
