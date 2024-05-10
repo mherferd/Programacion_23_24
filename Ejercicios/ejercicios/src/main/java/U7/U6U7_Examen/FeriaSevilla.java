@@ -1,6 +1,6 @@
-package U1.ejercicios.src.main.java.U7.U6U7_Examen;
+package U7.U6U7_Examen;
 
-import U1.ejercicios.src.main.java.U7.U6U7_Entregable.Atleta;
+import U7.U6U7_Entregable.Atleta;
 
 import java.io.*;
 import java.util.ArrayList;

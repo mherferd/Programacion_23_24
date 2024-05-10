@@ -1,4 +1,4 @@
-package U1.ejercicios.src.main.java.U7.U6U7_Examen;
+package U7.U6U7_Examen;
 
 import java.util.Comparator;
 

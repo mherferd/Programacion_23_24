@@ -7,6 +7,8 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner teclado = new Scanner(System.in);
+        ClienteModel clienteModel = new ClienteModel();
+        ADClassicModels adClassicModels = new ADClassicModels();
         int Opcion=0;
 
         do{
@@ -22,46 +24,50 @@ public class Main {
 
             switch (Opcion){
                 case 1:
-                    Connection connection = null;
 
-                    try {
+                    System.out.println("------------INSERTAR NUEVO CLIENTE-----------");
 
-                        connection = DriverManager.getConnection("jdbc:mysql://localhost:3336/classicmodels?user=root&password=XXXXX");
+                    teclado.nextLine();
 
-                        System.out.println("Numero del Empleado: ");
-                        int customerNumber = teclado.nextInt();
+                    System.out.println("ID: ");
+                    String id_cliente = teclado.nextLine();
 
-                        System.out.println("Nombre del Empleado: ");
-                        String customerName = teclado.nextLine();
+                    System.out.println("Nombre: ");
+                    String nombre = teclado.nextLine();
 
-                        System.out.println("Apellido del Contacto: ");
-                        String contactLastName = teclado.nextLine();
+                    System.out.println("Apellido2: ");
+                    String apellido1 = teclado.nextLine();
 
-                        System.out.println("Nombre del Contacto: ");
-                        String contactFirstName = teclado.nextLine();
+                    System.out.println("Apellido1: ");
+                    String apellido2 = teclado.nextLine();
 
-                        System.out.println("Telefono de Empleado: ");
-                        int phone = teclado.nextInt();
+                    System.out.println("Numero: ");
+                    String numero = teclado.nextLine();
 
-                        System.out.println("Ubicacion 1: ");
-                        String adress1 = teclado.nextLine();
+                    System.out.println("Direccion1: ");
+                    String direccion1 = teclado.nextLine();
 
-                        System.out.println("Ubicacion 2: ");
-                        String adress2 = teclado.nextLine();
+                    System.out.println("Direccion2: ");
+                    String direccion2 = teclado.nextLine();
 
+                    System.out.println("Ciudad: ");
+                    String ciudad = teclado.nextLine();
 
+                    System.out.println("Estado: ");
+                    String estado = teclado.nextLine();
 
-                    } catch (SQLException e) {
-                        System.out.println(e.getMessage());
-                    } finally {
-                        try {
-                            if (connection != null) {
-                                connection.close();
-                            }
-                        } catch (SQLException e) {
-                            System.out.println(e.getMessage());
-                        }
-                    }
+                    System.out.println("Codigo Postal: ");
+                    String cod_postal = teclado.nextLine();
+
+                    System.out.println("Pais: ");
+                    String pais = teclado.nextLine();
+
+                    System.out.println("Credito: ");
+                    String credito = teclado.nextLine();
+
+                    Cliente cliente = new Cliente(id_cliente,nombre,apellido1,apellido2,numero,direccion1,direccion2,ciudad,estado,cod_postal,pais,credito);
+
+                    clienteModel.insertCliente(cliente);
                     break;
                 case 2:
                     break;
