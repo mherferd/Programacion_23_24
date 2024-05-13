@@ -1,0 +1,186 @@
+import java.sql.*;
+import java.util.Scanner;
+
+public class Main {
+
+    private static final String DB_URL = "jdbc:sqlite:sampledatabase.db";
+    private static Connection connection;
+
+    public static void main(String[] args) {
+        try {
+            connection = DriverManager.getConnection(DB_URL);
+            mostrarMenu();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (connection != null) {
+                    connection.close();
+                }
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    private static void mostrarMenu() throws SQLException {
+        boolean salir = false;
+        Scanner scanner = new Scanner(System.in);
+
+        while (!salir) {
+            System.out.println("Menú:");
+            System.out.println("1. Insertar cliente");
+            System.out.println("2. Asignar empleado a cliente");
+            System.out.println("3. Añadir producto a pedido");
+            System.out.println("4. Mostrar con detalle un pedido");
+            System.out.println("5. Salir");
+            System.out.print("Seleccione una opción: ");
+            int opcion = scanner.nextInt();
+            scanner.nextLine(); // Consumir el salto de línea
+
+            switch (opcion) {
+                case 1:
+                    insertarCliente();
+                    break;
+                case 2:
+                    asignarEmpleadoACliente();
+                    break;
+                case 3:
+                    añadirProductoAPedido();
+                    break;
+                case 4:
+                    mostrarDetallePedido();
+                    break;
+                case 5:
+                    salir = true;
+                    break;
+                default:
+                    System.out.println("Opción no válida.");
+            }
+        }
+    }
+
+    private static void insertarCliente() throws SQLException {
+        // Implementación para insertar un cliente en la base de datos SQLite
+        try {
+            //Sentencia de que voy a hacer
+            //Orden de los campos segun viene en la bd, para que sea mas claro
+            PreparedStatement statement = connection.prepareStatement("INSERT INTO CUSTOMERS (customerNumber,customerName,contactLastName,contactFirstName,phone, addressLine1,city,country) VALUES (?,?,?,?,?,?,?,?)");
+            Scanner scanner = new Scanner(System.in);
+            //Se piden los campos a rellenar por orden
+            System.out.println("Introduzca el numero de cliente");
+            int numeroCliente = scanner.nextInt();
+            scanner.nextLine();
+            System.out.print("Nombre del cliente: ");
+            String nombre = scanner.nextLine();
+            System.out.print("Dirección del cliente: ");
+            String direccion = scanner.nextLine();
+            System.out.println("1er nombre de contacto: ");
+            String nombreContacto = scanner.nextLine();
+            System.out.println("2do nombre de contacto");
+            String nombreContacto2 = scanner.nextLine();
+            System.out.println("Numero de telefono");
+            String numeroTelefono = scanner.nextLine();
+            System.out.println("Ciudad: ");
+            String ciudad = scanner.nextLine();
+            System.out.println("Pais");
+            String pais = scanner.nextLine();
+
+            //Se introduce en la tabla, el numero corresponde al campo segun lo hayamos puesto en la sentencia
+            statement.setInt(1, numeroCliente);
+            statement.setString(2, nombre);
+            statement.setString(3, nombreContacto2);
+            statement.setString(4, nombreContacto);
+            statement.setString(5, numeroTelefono);
+            statement.setString(6, direccion);
+            statement.setString(7, ciudad);
+            statement.setString(8, pais);
+
+            //Nose que es
+            int rowsInserted = statement.executeUpdate();
+            //Mensajes de salida
+            if (rowsInserted > 0) {
+                System.out.println("Cliente insertado correctamente.");
+            } else {
+                System.out.println("No se pudo insertar el cliente.");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void asignarEmpleadoACliente() {
+        // Implementación para asignar un empleado a un cliente en la base de datos SQLite
+        try {
+
+            Scanner entrada = new Scanner(System.in);
+            System.out.println("Introduce el id del cliente");
+            int numCliente = entrada.nextInt();
+            System.out.println("Introduce el id del empleado");
+            int numEmpleado = entrada.nextInt();
+
+            PreparedStatement statement = connection.prepareStatement(
+                    "UPDATE customers " +
+                            "set salesRepEmployeeNumber =? where customerNumber=? ");
+
+            statement.setInt(1, numEmpleado);
+            statement.setInt(2, numCliente);
+
+
+            int filasActu = statement.executeUpdate();
+            if (filasActu > 0) {
+                System.out.println("Empleado asignado al cliente correctamente");
+            } else {
+                System.out.println("No se ha podido asignar");
+            }
+
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    private static void añadirProductoAPedido() {
+
+        try {
+            Scanner entrada = new Scanner(System.in);
+            System.out.println("Introduce el id del producto");
+            int numProducto = entrada.nextInt();
+            System.out.println("Introduce el id del pedido");
+            int numPedido = entrada.nextInt();
+            System.out.println("Introduce la cantidad del producto");
+            int cantidad = entrada.nextInt();
+            PreparedStatement statement = connection.prepareStatement(
+                    ""
+            );
+
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+
+    }
+
+    private static void mostrarDetallePedido() {
+        try {
+            PreparedStatement statement = connection.prepareStatement("SELECT * FROM orders WHERE orderNumber = ?");
+            Scanner scanner = new Scanner(System.in);
+            System.out.print("Introduzca el número del pedido: ");
+            int numeroPedido = scanner.nextInt();
+
+            statement.setInt(1, numeroPedido);
+
+            ResultSet rs = statement.executeQuery();
+
+            if (rs.next()) {
+                System.out.println("Pedido encontrado:");
+                System.out.println("Número de pedido: " + rs.getInt("orderNumber"));
+                System.out.println("Fecha del pedido: " + rs.getString("orderDate"));
+                System.out.println("Estado del pedido: " + rs.getString("status"));
+                // Aquí puedes seguir mostrando los detalles del pedido según tu esquema de base de datos
+            } else {
+                System.out.println("Pedido no encontrado.");
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+}
