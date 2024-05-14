@@ -20,7 +20,7 @@ public class Main {
         System.out.println("-----------------------------------------------------------------");
         System.out.println();
 
-        System.out.println("----------------------------- CONSULTA 3 ------------------------------------");
+        System.out.println("----------------------------- CONSULTA 3 -----------------------------------");
         consultas.informeCategoria();
         System.out.println();
         System.out.println("-----------------------------------------------------------------");
