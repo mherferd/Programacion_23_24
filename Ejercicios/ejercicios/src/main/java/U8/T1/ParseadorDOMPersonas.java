@@ -1,17 +1,19 @@
-package U8.T3;
+package U8.T1;
 
-import java.io.File;
-import java.io.IOException;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
+import okhttp3.Response;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-public class ParseadorDOMPersonas {
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+import java.io.File;
+import java.io.IOException;
+
+    public class ParseadorDOMPersonas {
 
         public static void parse(String nomFile){
             try {
@@ -19,7 +21,7 @@ public class ParseadorDOMPersonas {
                 // Cargo el Fichero XML en Memoria
                 DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
                 DocumentBuilder db = dbf.newDocumentBuilder();
-                Document doc = db.parse(new File("src/main/java/U8/T3/"+nomFile));
+                Document doc = db.parse(new File("src/main/java/U8/T1/"+nomFile));
 
                 // Cojo directamente las etiquetas persona
                 NodeList nl = doc.getElementsByTagName("personas");
@@ -55,4 +57,6 @@ public class ParseadorDOMPersonas {
         }
 
 
-}
+    }
+
+
