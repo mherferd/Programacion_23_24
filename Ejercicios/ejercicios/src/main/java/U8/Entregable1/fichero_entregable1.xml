@@ -1,0 +1,32 @@
+<partidos>
+    <partido estadio="Villamarin">
+        <Equipo_Local>Real Betis</Equipo_Local>
+        <Equipo_Visitante>Sevilla FC</Equipo_Visitante>
+        <Goles_Local>3</Goles_Local>
+        <Goles_Visitante>1</Goles_Visitante>
+    </partido>
+    <partido estadio="Camp Nou">
+        <Equipo_Local>Barcelona</Equipo_Local>
+        <Equipo_Visitante>Madrid</Equipo_Visitante>
+        <Goles_Local>2</Goles_Local>
+        <Goles_Visitante>2</Goles_Visitante>
+    </partido>
+    <partido estadio="Emirates Stadium">
+        <Equipo_Local>Juventus</Equipo_Local>
+        <Equipo_Visitante>Bayern</Equipo_Visitante>
+        <Goles_Local>0</Goles_Local>
+        <Goles_Visitante>1</Goles_Visitante>
+    </partido>
+    <partido estadio="Wanda Metropolitano">
+        <Equipo_Local>Atleti</Equipo_Local>
+        <Equipo_Visitante>Valencia</Equipo_Visitante>
+        <Goles_Local>4</Goles_Local>
+        <Goles_Visitante>2</Goles_Visitante>
+    </partido>
+    <partido estadio="Allianz Arena">
+        <Equipo_Local>Real Sociedad</Equipo_Local>
+        <Equipo_Visitante>Cádiz</Equipo_Visitante>
+        <Goles_Local>1</Goles_Local>
+        <Goles_Visitante>2</Goles_Visitante>
+    </partido>
+</partidos>
