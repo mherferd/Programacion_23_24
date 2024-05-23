@@ -20,7 +20,7 @@ public class DOMPersona {
             DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
             DocumentBuilder db = dbf.newDocumentBuilder();
             Document doc =
-                    db.parse(new File("src/main/java/U8_xml_json/XML/ejercicios/ejemploDOM/personasXML.xml"));
+                    db.parse(new File("C:\\Users\\User\\Downloads\\Programacion_23_24\\Ejercicios\\ejercicios\\src\\main\\java\\U8\\XML\\ejemploDOM\\personasXML.xml"));
 
             // Cojo directamente las etiquetas persona
             NodeList nl = doc.getElementsByTagName("persona");

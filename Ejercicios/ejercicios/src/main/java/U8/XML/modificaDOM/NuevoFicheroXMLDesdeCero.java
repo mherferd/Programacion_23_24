@@ -73,7 +73,7 @@ public class NuevoFicheroXMLDesdeCero {
 
             // Creación del fichero que va a ser mi destino
             File nuevoPersonas =
-                    new File("src/main/java/U8_xml_json/XML/ejercicios/modificandoDOM/asignaturas.xml");
+                    new File("C:\\Users\\User\\Downloads\\Programacion_23_24\\Ejercicios\\ejercicios\\src\\main\\java\\U8\\XML\\modificaDOM\\personasXML.xml");
             StreamResult destino = new StreamResult(nuevoPersonas);
 
             // Hacemos la transformación que en nuestro caso es la escritura

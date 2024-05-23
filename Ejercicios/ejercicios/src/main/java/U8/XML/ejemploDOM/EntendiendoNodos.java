@@ -21,7 +21,7 @@ public class EntendiendoNodos {
             DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
             DocumentBuilder db = dbf.newDocumentBuilder();
             Document doc =
-                    db.parse(new File("src/main/java/U8_xml_json/XML/ejercicios/ejemploDOM/personasXML.xml"));
+                    db.parse(new File("C:\\Users\\User\\Downloads\\Programacion_23_24\\Ejercicios\\ejercicios\\src\\main\\java\\U8\\XML\\ejemploDOM\\personasXML.xml"));
 
             // Número de Nodos de todo el documento - 1
             System.out.println("Nodos hijos de todo el Documento:" + doc.getChildNodes().getLength());
