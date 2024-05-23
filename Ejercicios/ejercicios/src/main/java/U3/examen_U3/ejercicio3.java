@@ -95,7 +95,7 @@ public class ejercicio3 {
                 maximo = pares[j];
             }
         }
-        System.out.println("MÁXIMO DE PARES: "+maximo);
+        System.out.println("MAXIMO DE PARES: "+maximo);
 
         maximo = impares[0];
 
@@ -104,7 +104,7 @@ public class ejercicio3 {
                 maximo = impares[j];
             }
         }
-        System.out.println("MÁXIMO DE IMPARES: "+maximo);
+        System.out.println("MAXIMO DE IMPARES: "+maximo);
 
 
         int minimo = pares[0];
@@ -114,7 +114,7 @@ public class ejercicio3 {
                 minimo = pares[j];
             }
         }
-        System.out.println("MÍNIMO DE PARES: "+minimo);
+        System.out.println("MINIMO DE PARES: "+minimo);
 
 
 
@@ -125,7 +125,7 @@ public class ejercicio3 {
                 minimo = impares[j];
             }
         }
-        System.out.println("MÍNIMO DE IMPARES: "+minimo);
+        System.out.println("MINIMO DE IMPARES: "+minimo);
 
 
         Scanner teclado7 = new Scanner(System.in);

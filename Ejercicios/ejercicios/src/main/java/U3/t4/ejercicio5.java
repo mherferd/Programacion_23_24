@@ -43,7 +43,7 @@ public class ejercicio5 {
                 maximo = diagonal[j];
             }
         }
-        System.out.println("MÁXIMO: "+maximo);
+        System.out.println("MAXIMO: "+maximo);
 
 
         int minimo = diagonal[0];
@@ -53,7 +53,7 @@ public class ejercicio5 {
                 minimo = diagonal[j];
             }
         }
-        System.out.println("MÍNIMO: "+minimo);
+        System.out.println("MINIMO: "+minimo);
 
     }
 }

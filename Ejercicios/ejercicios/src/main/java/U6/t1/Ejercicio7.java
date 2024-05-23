@@ -13,13 +13,13 @@ public class Ejercicio7 {
         try {
             BufferedReader in = new BufferedReader(new FileReader("C:\\Ficheros_UD6\\t1\\Ej7\\ej7.txt"));
             String linea = in.readLine();
-            System.out.println("PÁGINA 1");
+            System.out.println("PAGINA 1");
             while (linea != null) {
                 texto += linea + "\n";
                 linea = in.readLine();
                 n_lineas++;
                 if(n_lineas==24){
-                    texto += linea + "\n \nPÁGINA "+n_paginas +"\n";
+                    texto += linea + "\n \nPAGINA "+n_paginas +"\n";
                     n_lineas=0;
                     n_paginas++;}
                 }

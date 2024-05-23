@@ -1,6 +1,5 @@
 package U7.U6U7_Examen;
 
-import U1.ejercicios.src.main.java.U7.Entregable_PRA_1.Alumno;
 
 import java.util.Comparator;
 

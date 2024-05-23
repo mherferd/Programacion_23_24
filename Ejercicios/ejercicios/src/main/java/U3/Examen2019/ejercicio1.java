@@ -39,17 +39,18 @@ public class ejercicio1 {
                 maximo = diagonal[j];
             }
         }
-        System.out.println("MÁXIMO: "+maximo);
+        System.out.println("MAXIMO: "+maximo);
 
 
         int minimo = diagonal[0];
+
 
         for (int j = 0; j < 9; j++) {
             if (diagonal[j] <= minimo) {
                 minimo = diagonal[j];
             }
         }
-        System.out.println("MÍNIMO: "+minimo);
+        System.out.println("MINIMO: "+minimo);
 
     }
 }

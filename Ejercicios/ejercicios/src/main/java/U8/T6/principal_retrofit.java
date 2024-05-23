@@ -27,9 +27,8 @@ public class principal_retrofit {
                         .client(okHttpClient)
                         .build();
 
-        CentralFutbolistas service = retrofit.create(CentralFutbolistas.class);
-        Futbolistas  futbolista = null;
-        final Integer futbolID = 2;
+        API_Futbolistas service = retrofit.create(API_Futbolistas.class);
+
 
         System.out.println("Obtenemos el listado completo de futbolistas");
         try {
@@ -44,8 +43,6 @@ public class principal_retrofit {
             System.out.println("Error en la peticion: " + ex.getMessage());
         }
 
-        System.out.println();
-        System.out.println("Obtenemos una venta concreta, identificada por el id " + futbolID);
 
         okHttpClient.dispatcher().executorService().shutdown();
         okHttpClient.connectionPool().evictAll();
