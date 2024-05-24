@@ -12,8 +12,6 @@ public class Main {
         String etiqueta = teclado.nextLine();
 
        // recorridoDOM.mostrarContenidoEtiqueta(etiqueta);
-        recorridoDOM.numNodosHijos();
         recorridoDOM.mostrarXMLDom();
-        recorridoDOM.mostrarContenidoEtiqueta(etiqueta);
     }
 }
